@@ -36,7 +36,7 @@ java에서 MySQL을 연결하는 방법을 익히고, 응용하기 위한 프로
 
 <br>
 
-## 레이아웃
+## 프로토타입
 ![레이아웃](https://github.com/user-attachments/assets/93b534bd-aa31-43b3-a17b-ab84e728c409)
 
 <br>
