@@ -36,6 +36,11 @@ java에서 MySQL을 연결하는 방법을 익히고, 응용하기 위한 프로
 
 <br>
 
+## 레이아웃
+![레이아웃](https://github.com/user-attachments/assets/93b534bd-aa31-43b3-a17b-ab84e728c409)
+
+<br>
+
 ## 실행 화면
 - 고객
 <img width="795" alt="image" src="https://github.com/user-attachments/assets/8d1a93b9-bd60-4bf3-9612-1a781fb1dda3">
